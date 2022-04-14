@@ -1,3 +1,7 @@
+"""
+make sure you have tensorflow installed
+"""
+
 #-------importing modules-------------------------------
 
 import tensorflow as tf
